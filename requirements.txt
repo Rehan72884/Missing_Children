@@ -1,0 +1,6 @@
+blinker
+face_recognition
+Flask
+pyodbc
+SQLAlchemy
+websockets

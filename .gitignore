@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+
+# Virtual environments
+env/
+miss/
+.venv/
+venv/
+pyvenv.cfg
+
+# Local configuration
+.env
+.env.*
+!.env.example
+
+# Uploaded user images and archives
+uploads/
+uploads.zip
+
+# Local IDE and OS files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
